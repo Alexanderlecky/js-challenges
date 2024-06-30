@@ -1,0 +1,16 @@
+{
+    "name": "my-js-project",
+    "version": "1.0.0",
+    "description": "A simple JavaScript project",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "mocha"
+    },
+    "author": "Alexander",
+    "license": "ISC",
+    "devDependencies": {
+      "mocha": "^8.0.0"
+    }
+  }
+  
