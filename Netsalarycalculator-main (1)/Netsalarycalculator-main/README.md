@@ -1,0 +1,2 @@
+# Netsalarycalculator
+The Net Salary Calculator function calculates an individual's net salary based on inputs of basic salary and benefits. It calculates the PAYE (Tax), NHIF Deductions, NSSF Deductions, gross salary, and net salary using specified rates.
